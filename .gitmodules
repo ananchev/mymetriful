@@ -1,0 +1,3 @@
+[submodule "sensor"]
+	path = sensor
+	url = https://github.com/metriful/sensor.git
