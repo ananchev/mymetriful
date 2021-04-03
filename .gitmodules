@@ -1,3 +1,6 @@
 [submodule "sensor"]
 	path = sensor
 	url = https://github.com/metriful/sensor.git
+[submodule "arduino-cmake"]
+	path = arduino-cmake
+	url = git://github.com/queezythegreat/arduino-cmake.git

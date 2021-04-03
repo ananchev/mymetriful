@@ -1,0 +1,43 @@
+{
+    "Temperature": [
+      {
+        "pos-neg": "+",
+        "T_intPart": 26,
+        "T_fractionalPart": 1,
+        "unit": "°C"
+      }
+    ],
+    "Pressure": [
+      {
+        "value": 102925,
+        "unit": "Pa"
+      }
+    ],
+    "Humidity": [
+      {
+        "H_pc_int": 32,
+        "H_pc_fr_1dp": 4,
+        "unit": "%"
+      }
+    ],
+    "AirQuality": [
+      {
+        "accuracy": "High accuracy",
+        "AQI_int": 124,
+        "AQI_fr_1dp": 0,
+        "interpretation": "Substandard",
+        "CO2e_int": 1228,
+        "CO2e_fr_1dp": 1,
+        "CO2e_unit": "ppm",
+        "bVOC_int": 2,
+        "bVOC_fr_2dp": 19,
+        "bVOC_unit": "ppm"
+      }
+    ],
+    "NextReadAfter": [
+      {
+        "value": 80,
+        "unit": "seconds"
+      }
+    ]
+  }
