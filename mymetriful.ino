@@ -9,7 +9,7 @@
 
 // Wi-Fi and webserver settings 
 const char* ssid = "CasaDiMi";
-const char* password = "Muska1ova";
+const char* password = "password";
 ESP8266WebServer server(80);
 
 
